@@ -32,7 +32,7 @@ function Navbar() {
     <div className="navbar">
       <div className="navbar-image-div">
         <Link to="/">
-          <img src="images/doctor.png" alt="Logo" className="navbar-image" />
+          <img src="images/logoinage.png" alt="Logo" className="navbar-image" />
         </Link>
       </div>
       <nav className="NavbarItems" onMouseLeave={handleMouseLeave}>
