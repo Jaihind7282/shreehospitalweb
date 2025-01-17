@@ -18,7 +18,7 @@ const Footer = () => {
           <h3>Contact</h3>
           <ul>
             <li>Email: contact@gmail.com</li>
-            <li>Phone: (+91) - 9801373068</li>
+            <li>Phone: (+91) - 6205561490</li>
             <li>Address: Thana Chowk, Khaira Mod, Jamui, Bihar, 811307</li>
           </ul>
         </div>
@@ -27,7 +27,7 @@ const Footer = () => {
           <h3>Follow Us</h3>
           <div className="social-media">
             <a
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/shree.hospital.314506"
               target="_blank"
               rel="noopener noreferrer"
             >
