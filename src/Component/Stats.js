@@ -29,19 +29,13 @@ const Stats = () => {
         </div>
         <div className="stat-card">
           <h3 className="stat-number">
-            {inView && <CountUp start={0} end={107} duration={10} suffix="+" />}
-          </h3>
-          <p className="stat-label">Doctors Associated</p>
-        </div>
-        <div className="stat-card">
-          <h3 className="stat-number">
-            {inView && <CountUp start={0} end={8} duration={10} suffix="+" />}
+            {inView && <CountUp start={0} end={2} duration={10} suffix="+" />}
           </h3>
           <p className="stat-label">Years of Experience</p>
         </div>
         <div className="stat-card">
           <h3 className="stat-number">
-            {inView && <CountUp start={0} end={100} duration={10} suffix="+" />}
+            {inView && <CountUp start={0} end={50} duration={10} suffix="+" />}
           </h3>
           <p className="stat-label">Dedicated Staff</p>
         </div>
