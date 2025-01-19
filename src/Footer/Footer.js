@@ -3,6 +3,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
+    <>
     <footer className="footer">
       <div className="footer-content">
         <div className="footer-section">
@@ -62,6 +63,41 @@ const Footer = () => {
         </a>
       </div>
     </footer>
+<h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>newborn Hospital in jamui</h1>
+            <h1>women Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>best hospital in jamui</h1>
+            <h1>Shree Hospital in jamui,bihar</h1>
+            <h1>Best Hospital in jamui</h1>
+            <h1>best Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>baby Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>newborn Hospital in jamui</h1>
+            <h1>women Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>best hospital in jamui</h1>
+            <h1>Shree Hospital in jamui,bihar</h1>
+            <h1>Best Hospital in jamui</h1>
+            <h1>best Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>baby Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            <h1>Shree Hospital in jamui</h1>
+            </>
   );
 };
 
